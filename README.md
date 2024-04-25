@@ -16,6 +16,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vue JS](https://img.shields.io/badge/Vue%20JS-grey?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=for-the-badge&logo=nuxtdotjs)
 <!--
 **Laynaria/Laynaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
