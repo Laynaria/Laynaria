@@ -21,6 +21,8 @@
 ![Vue JS](https://img.shields.io/badge/Vue%20JS-grey?style=for-the-badge&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=for-the-badge&logo=nuxtdotjs)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-13222A?style=for-the-badge&logo=apollographql)
+![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laynaria)](https://github.com/anuraghazra/github-readme-stats)
