@@ -1,5 +1,8 @@
 ## Hi there, I'm Laynaria! Welcome on my Github profile. 👋
 
+I'm currently working as a Teaching Assistant at Wild Code School, in the Dev JS course where I help my students in their skills developpment.
+
+I'm also currently learning Nuxt by myself as a side project when I have some free time for it.
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -18,6 +21,13 @@
 ![Vue JS](https://img.shields.io/badge/Vue%20JS-grey?style=for-the-badge&logo=vuedotjs)
 ![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=for-the-badge&logo=nuxtdotjs)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-13222A?style=for-the-badge&logo=apollographql)
+
+Here are my languages stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laynaria)](https://github.com/anuraghazra/github-readme-stats)
+
+And here are some of my github stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=laynaria)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Laynaria/Laynaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
