@@ -7,7 +7,7 @@
 ## 💻 My Stacks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -24,6 +24,8 @@
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-13222A?style=for-the-badge&logo=apollographql)
 ![TypeORM](https://img.shields.io/badge/TypeORM-darkred?style=for-the-badge&logo=typeorm)
 ![Docker](https://img.shields.io/badge/Docker-%2303061E?style=for-the-badge&logo=docker)
+![Caddy](https://img.shields.io/badge/Caddy-%230C376B?style=for-the-badge&logo=caddy)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=Jest)
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=Playwright&logoColor=white)
 
