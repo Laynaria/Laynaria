@@ -27,6 +27,7 @@ Here are my languages stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laynaria)](https://github.com/anuraghazra/github-readme-stats)
 
 And here are some of my github stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=laynaria)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Laynaria/Laynaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
