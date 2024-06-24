@@ -4,10 +4,10 @@
 
 #### 🌱 I'm also currently learning Nuxt by myself as a side project when I have some free time for it.
 
-## Languages
+## 💻 My Stacks:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
@@ -22,18 +22,13 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt-020420?style=for-the-badge&logo=nuxtdotjs)
 ![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-13222A?style=for-the-badge&logo=apollographql)
 
-Here are my some of my github stats, including language stats:
-
+## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laynaria)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=laynaria&theme=dark&hide_border=false)
+[![GitHub Streak](https://streak-stats.demolab.com?user=laynaria&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=laynaria&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <!--
-**Laynaria/Laynaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -45,10 +40,6 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🌱 I’m currently learning Javascript, React, Express.js
 )
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alexis-NM&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alexis-NM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-NM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alexis-NM&icon=0&color=2)](https://visitcount.itsvg.in)
