@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laynaria&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Laynaria&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Laynaria&theme=dark&mode=weekly)](https://git.io/streak-stats) -->
 [![Github Graph](https://github-readme-activity-graph.vercel.app/graph?username=laynaria&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
